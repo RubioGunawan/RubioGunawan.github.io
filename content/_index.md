@@ -1,6 +1,7 @@
 +++
 title = "Homepage of Rubio Gunawan"
 +++
+![image](Rubio_Diploma.jpg)
 
 I am Rubio Gunawan, currently a second year PhD Student studying in the International School for Advanced Studies (SISSA), Trieste.
 My PhD fellowship is supported by a joint program with the Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste.
