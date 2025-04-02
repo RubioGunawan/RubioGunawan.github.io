@@ -1,5 +1,5 @@
 +++
-title = "Homepage of Rubio Gunawan"
+title = "Home"
 +++
 
 ![image](/images/Rubio_Diploma.jpg)
